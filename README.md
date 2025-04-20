@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BoeserBob
-- 👀 I’m interested in creating funny stuff for small controller.
+- 👀 I’m interested in creating funny stuff for small controllers.
 - 🌱 I’m currently learning to code and solder with Shelly Devices and ESP32/8266.
 - 💞️ I’m looking to collaborate on useful small programms for daily life.
 - 📫 You can reach me on quirb@web.de
