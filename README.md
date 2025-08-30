@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning to code and solder with Shelly Devices and ESP32/8266.
 - 💞️ I’m looking to collaborate on useful small programms for daily life.
 - 📫 You can reach me on quirb@web.de
+... or vist my chanel on youtube: 
+https://www.youtube.com/@SehrBoeserBob
+
 - ⚡ Fun fact: nothing funny in my life, I'm german.  
 
 <!---
